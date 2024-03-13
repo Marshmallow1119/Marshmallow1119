@@ -16,7 +16,6 @@
   </a>    
 
 </div>
-  ![snake gif](https://github.com/Marshmallow1119/Marshmallow1119/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 💻 Tech Stack:
