@@ -14,9 +14,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshmallow1119&layout=donut&theme=dark#gh-dark-mode-only" alt="Marshmallow1119" /><br>
 
   </a>    
-  ![snake gif](https://github.com/Marshmallow1119/Marshmallow1119/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+  ![snake gif](https://github.com/Marshmallow1119/Marshmallow1119/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 💻 Tech Stack:
