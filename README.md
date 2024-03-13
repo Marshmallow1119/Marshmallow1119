@@ -2,6 +2,8 @@
 
 <div>
   <a href = "mailto:tomasbras@ua.pt"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+    <a href="https://instagram.com/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 </div>
 
 
@@ -10,7 +12,7 @@
   <a href="https://github.com/Marshmallow1119" align="">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marshmallow1119&show_icons=true&theme=dark#gh-dark-mode-only" /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshmallow1119&layout=donut&theme=dark#gh-dark-mode-only" alt="Marshmallow1119" /><br>
-    <img height="165em" src="https://raw.githubusercontent.com/{Marshmallow1119}/{Marshmallow1119}/output/github-contribution-grid-snake-dark.svg" /><br>
+    ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
   </a>
 </div>
 
