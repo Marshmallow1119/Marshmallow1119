@@ -14,9 +14,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshmallow1119&layout=donut&theme=dark#gh-dark-mode-only" alt="Marshmallow1119" /><br>
      <img src="![snake animation](https://github.com/<Marshmallow1119>/<Marshmallow1119>/blob/output/github-contribution-grid-snake2.svg)" alt="Marshmallow1119" />
   </a>    
-  
 
 </div>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
 
 ## 💻 Tech Stack:
