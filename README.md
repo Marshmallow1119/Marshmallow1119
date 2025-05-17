@@ -1,3 +1,15 @@
+I'm a Software Engineering student at the
+University of Aveiro, passionate about everything
+related to technology and how things are made. I
+especially enjoy creating things from scratch and
+seeing the final result come to life — it's one of
+the most rewarding parts of the journey.
+I lead a balanced and fulfilling life. Currently, I
+practice several sports to maintain both my
+physical and mental well-being, which helps me
+stay focused and productive in my academic and
+personal projects.
+
 ## 📫 How to Reach Me:
 
 <div>
